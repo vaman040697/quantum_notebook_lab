@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="quantum.png" alt="LangChain Multimodal Demo Banner" width="100%">
+  <img src="quantum.png" alt="LangChain Multimodal Demo Banner" width="70%">
 </p>
 
 
